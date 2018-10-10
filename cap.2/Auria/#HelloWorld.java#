@@ -1,0 +1,11 @@
+public class HelloWorld
+	{
+		public static void main (String args[]) 
+			{
+		        int a=50,b;
+			for(b=50;b<100; a++) 
+				{
+				System.out.println(a);
+				}	
+			}
+	}
